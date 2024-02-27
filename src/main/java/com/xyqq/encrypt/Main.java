@@ -1,4 +1,4 @@
-package com.xyqq;
+package com.xyqq.encrypt;
 
 /**
  * ClassName: ${NAME}
